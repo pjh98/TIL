@@ -22,4 +22,4 @@
 - [**Git**](https://github.com/pjh98/TIL/tree/master/Git)
 
   
-- [**IntelliJGuide**](https://github.com/pjh98/TIL/tree/master/IntellijIDEAGuide)
+- [**IntelliJGuide**](https://github.com/pjh98/TIL/tree/main/IntelliJIDEAGuide)
