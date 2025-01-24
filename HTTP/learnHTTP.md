@@ -119,6 +119,8 @@
   ```
 </details>
 
+---
+
 <details>
   <summary><h3>HTTP(HyperText Transfer Protocol)</h3></summary>
 
@@ -203,6 +205,8 @@ HTTP-message  = start-line
     * HTML 문서, 이미지, JSON 등 byte로 표현할 수 있는 모든 데이터 전송 가능
 
 </details>
+
+---
 
 <details>
   <summary><h3>HTTP 메서드</h3></summary>
