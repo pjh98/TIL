@@ -32,6 +32,8 @@
     * 정적 메서드는 공용 기능이다. 따라서 접근 제어자만 허락한다면 클래스를 통해 모든 곳에서 static을 호출할 수 있다.
 </details>
 
+---
+
 <details>
     <summary><h3>final</h3></summary>
 
@@ -52,6 +54,7 @@ Field field3 = new Field();
 * final은 정말 유용한 제약이다. 만약 특정 변수의 값을 할당한 이후 변경하지 않아야 한다면 final을 사용하자. 만약 어디선가 실수로 값을 변경한다면 컴파일러가 문제를 찾아줄 것이다.
 </details>
 
+---
 
 <details>
   <summary><h3>상속(Inheritance)</h3></summary>
@@ -68,6 +71,8 @@ Field field3 = new Field();
   * 부모와 자식의 필드명이 같거나 메서드가 오버라이딩 되어있으면 자식에서 부모의 필드나 메서드를 호출할 수 없다. 이때 super 키워드를 사용하면 부모를 참조할 수 있다. super는 말 그대로 부모 클래스에 대한 참조를 나타낸다.
   * 상속 관계를 사용하면 자식 클래스의 생성자에서 부모 클래스의 생성자를 반드시 호출해야 한다.(기본 생성자인 경우 super() 생략 가능)
 </details>
+
+---
 
 <details>
   <summary><h3>다형성(Polymorphism)</h3></summary>
@@ -96,6 +101,8 @@ Field field3 = new Field();
       Parent parent2 = child; //업캐스팅은 생략 권장
       ```
 </details>
+
+---
 
 <details>
   <summary><h3>추상 클래스</h3></summary>
